@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi there! <img src="https://emoji.discadia.com/emojis/628498ba-d3e1-4722-99d2-a09a3c0b6866.gif" width="40" height="40" /></h1>
+<h2 align="center">I'm Rhn <img src="https://emoji.discadia.com/emojis/ea6c05ba-b9ea-48b7-872b-cfed6fe8653f.gif" width="40" height="40" /></h2>
 
-<!--
-**RealRahan/RealRahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RealRahan&label=Profile+Views&color=8ae009&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+
+
+## 🛠️ skills  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<p align="center">
+  <img src="https://raspberry-valley.azurewebsites.net/img/Python-01.jpg" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+ 
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RealRahan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
+
+---
+
+
+
+## 🎮 Discord Presence  
+<div align="center">
+  <a href="https://discord.com/users/1336772500490686535">
+    <img src="https://lanyard.cnrad.dev/api/1336772500490686535?showDisplayName=true&borderRadius=30px&bg=0F0F0F" />
+  </a>
+</div>
+
+---
