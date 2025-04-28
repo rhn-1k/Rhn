@@ -29,12 +29,6 @@
 ---
 
 
-
-## 🎮 Discord Presence  
-<div align="center">
-  <a href="https://discord.com/users/1336772500490686535">
-    <img src="https://lanyard.cnrad.dev/api/1336772500490686535?showDisplayName=true&borderRadius=30px&bg=0F0F0F" />
-  </a>
-</div>
-
+  
+[![ 🎮 Discord Presence](https://lanyard.cnrad.dev/api/1336772500490686535?showDisplayName=true&borderRadius=30px&bg=0F0F0F)](https://discord.com/users/1336772500490686535)
 ---
