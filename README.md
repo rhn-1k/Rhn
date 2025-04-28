@@ -30,5 +30,5 @@
 
 
   
-[![ 🎮 Discord Presence](https://lanyard.cnrad.dev/api/1336772500490686535?showDisplayName=true&borderRadius=30px&bg=0F0F0F)](https://discord.com/users/1336772500490686535)
+meow ... why are you still here :3
 ---
