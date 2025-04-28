@@ -30,5 +30,5 @@
 
 
   
-meow ... why are you still here :3
+umm ... why are you still here
 ---
