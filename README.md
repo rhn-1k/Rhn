@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! <img src="https://emoji.discadia.com/emojis/628498ba-d3e1-4722-99d2-a09a3c0b6866.gif" width="35" height="40" /></h1>
-<h2 align="center">I'm Rhn <img src="https://emoji.discadia.com/emojis/ea6c05ba-b9ea-48b7-872b-cfed6fe8653f.gif" width="35" height="40" /></h2>
+<h2 align="center">I'm Rahan </h2>
 
 
 
